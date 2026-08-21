@@ -1,4 +1,4 @@
-# Extreme GANs
+# Extreme GANS: A Library and Benchmark for Synthetic Rare Event Generation
 
 `extreme_gans` provides GAN models for extreme multivariate time-series generation through a Python-first API.
 
