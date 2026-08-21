@@ -1,4 +1,4 @@
-"""Extreme GANs: GAN models for extreme multivariate time-series generation."""
+"""ExtremeGANS: A Library and Benchmark for GAN-Based Rare-Event Generation"""
 
 from . import algos, data, metrics
 from .data import TimeSeriesDataset
