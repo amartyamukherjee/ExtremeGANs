@@ -1,4 +1,4 @@
-"""ExtremeGANS: A Library and Benchmark for GAN-Based Rare-Event Generation"""
+"""ExtremeGANs: A Library and Benchmark for GAN-Based Rare-Event Generation"""
 
 from . import algos, data, metrics
 from .data import TimeSeriesDataset
