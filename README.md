@@ -77,5 +77,5 @@ model.evaluate(dataset, ...)
 model.generate(n_samples=...)
 ```
 
-Advanced users can access the underlying PyTorch generator after fitting via
+Users can access the underlying PyTorch generator after fitting via
 `model.generator_`, and the recorded training history via `model.history_`.
