@@ -7,7 +7,7 @@ name = "extreme_gans"
 version = "0.2.0"
 description = "GAN models for extreme multivariate time-series generation"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
   {name = "Amartya (Marty) Mukherjee"}
