@@ -21,7 +21,8 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/amartyamukherjee/ExtremeGANs"
 Repository = "https://github.com/amartyamukherjee/ExtremeGANs"
+Issues = "https://github.com/amartyamukherjee/ExtremeGANs/issues"
 
 [tool.setuptools.packages.find]
-where = ["."]
+where = ["src"]
 include = ["extreme_gans*"]
